@@ -37,9 +37,6 @@ str2=input()
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/44fb910f-61dd-4eac-aece-0edb05ca9d2a)
-## Result:
-Thus the above program was executed successfully for searching the substring at respective index.
-
 
 ## Result:
 Thus the above program was executed successfully for searching the substring at respective index.
